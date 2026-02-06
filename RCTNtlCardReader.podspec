@@ -18,7 +18,6 @@ Pod::Spec.new do |s|
 
   s.requires_arc = true
   s.vendored_libraries = [
-    "RCTNtlCardReader/Lib/lib/libiRockey301_ccid_V3.5.61_debug.a",
     "RCTNtlCardReader/Lib/lib/libiRockey301_ccid_V3.5.61_release.a"
   ]
 end
