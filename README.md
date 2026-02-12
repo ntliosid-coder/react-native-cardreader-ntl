@@ -1,4 +1,4 @@
-# npm i react-native-ntl-cardreader --save
+# npm i react-native-cardreader-ntl --save
 
 
 
